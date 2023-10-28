@@ -1,0 +1,123 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headerContainer {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-width: 6px;
+    border-bottom-style: solid;
+    border-bottom-color: #e04222;
+    width: 80%;
+    margin: 0 auto;
+   
+}
+
+.titleHeader {
+    color: rgb(187, 185, 185);
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(180, 178, 178)
+}
+
+.titleH2 {
+    font-size: 100px;
+    font-weight: bold
+} 
+
+.paragraphH2{
+    font-size: 30px;
+    margin-top: -30px;
+}
+
+.paragraphName {
+    font-size: 24px;
+    font-weight: bold;
+    color: #343A40;
+}
+
+.subtitleName {
+    margin-top: -10px;
+    font-size: 20px;
+    color: #343A40;
+}
+
+.containerImageIcon{
+    gap: 30px;
+    padding: 30px 0;
+}
+
+.tagA{
+    text-decoration: none;
+}
+
+.imageIcon{
+    margin-right: 30px;
+    width: 4%;
+    text-decoration: none;
+}
+
+.containerContext{
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
+.paragraphContext{
+    font-size: 30px;
+    margin-bottom: 30px;
+    line-height: 45px;
+}
+
+.subtitleLink{
+    color: black;
+    font-size: 32px;
+}
+
+.subtitleLinkRed{
+    color: #df4425;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.subtitleLinkRed:hover{
+    text-decoration: underline;
+}
+
+.containerImgP{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.subtitleSourceImg{
+    font-size: 20px;
+    color: #343A40;
+    margin-top: 0px;
+}
+.subtitleLink2{
+    color: black;
+    font-size: 32px;
+}
+
+.subtitleLinkRed2{
+    color: #DB4A2E;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.subtitleLinkRed2:hover{
+    text-decoration: underline;
+}
+.containerTitleP{
+    font-size: 50px;
+    font-weight: bold
+}
